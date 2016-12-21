@@ -160,6 +160,10 @@ header nav {
 	display: none;
 }
 
+footer nav ul{
+	padding:10px;
+}
+
 /* タブレットのスタイル */
 @media all and (min-width: 481px) {
 	footer nav {
